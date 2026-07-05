@@ -1,0 +1,6 @@
+{
+  "name": "Neon Music Snake & Logo Designer",
+  "description": "A dark neon synthwave web application featuring an interactive Snake game integrated with a customizable music player, and an AI-powered Logo Designer with animation controls and video generation using Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
